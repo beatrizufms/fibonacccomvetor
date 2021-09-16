@@ -1,4 +1,4 @@
-# fibonacccomvetor
+# fibonaccicomvetor
 Faça um programa que leia um valor e apresente o
 número de Fibonacci correspondente a este valor lido.
 Lembre que os 2 primeiros elementos da série de Fibonacci são 0 e 1 e
